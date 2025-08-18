@@ -25,7 +25,7 @@ dependencies = [
 packages = ["."]
 
 [tool.flwr.app]
-publisher = "jiamubai"
+publisher = "mahinur"
 
 [tool.flwr.app.components]
 serverapp = "flower_finance.server_app:app"
