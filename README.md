@@ -38,12 +38,11 @@ flwr run --run-config "use_flexlora=1
 
 |          | fiqa  |  fpb  | tfns  | Average |
 |:--------:|:-----:|:-----:|:-----:|:-------:|
-|  FedAvg  | 75.65 | 79.54 | 69.68 |  74.95  |
-| FlexLoRA | 71.05 | 80.69 | 74.79 |  75.51  |
+|  FedAvg  | 67.8 | 76.9 | 69.68 |  40.0  |
 
-All experiments are conducted using 2 A5000(20GB memory) GPUs.
+All experiments are conducted using 2 RTX 3090 (24 GB) GPUs.
 ## Model saving
 
-The PEFT checkpoint can be found in: https://drive.google.com/file/d/10yhYtINdTUW5GVS-QS2xTptHfjBfGQlh/view?usp=sharing
+The PEFT checkpoint can be found in: https://drive.google.com/drive/u/1/folders/1ZhEeeRn5w3-pPpxbaKtj_GzJ_eF2NSYp
 
 
