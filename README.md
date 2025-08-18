@@ -38,7 +38,7 @@ flwr run --run-config "use_flexlora=1
 
 |          | fiqa  |  fpb  | tfns  | Average |
 |:--------:|:-----:|:-----:|:-----:|:-------:|
-|  FedAvg  | 67.8 | 76.9 | 69.68 |  40.0  |
+|  FedAvg  | 67.8 | 76.9 | 69.6 |  71.4  |
 
 All experiments are conducted using 2 RTX 3090 (24 GB) GPUs.
 ## Model saving
